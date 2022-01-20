@@ -1,0 +1,1 @@
+{"scoring_method": "ppl_based_pmi", "model": "gpt2-xl", "max_length": 32, "data": "sat", "template_type": "rel-same"}

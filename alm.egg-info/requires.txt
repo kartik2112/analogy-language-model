@@ -1,0 +1,7 @@
+transformers
+torch
+tqdm
+pandas
+gensim
+gdown
+requests

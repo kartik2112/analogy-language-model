@@ -1,0 +1,1 @@
+{"scoring_method": "ppl_marginal_bias", "model": "bert-large-cased", "max_length": 32, "data": "sat", "template_type": "what-is-to"}
